@@ -1,5 +1,5 @@
-👋 Hi, I’m Andwar
-👀 I’m interested in Money
+👋 Hi, I’m Andwar<br>
+👀 I’m interested in Money<br>
 🌱 I’m currently learning to be a human
 
 <!---
